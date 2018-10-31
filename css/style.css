@@ -1,6 +1,6 @@
 /*
  * Title:  Bisa
- * Author: XeroTheme Teams
+ * Author: myTheme Teams
  */
 
 /* --------------------------------------------------------
@@ -174,7 +174,7 @@ h6 {
 
  font-family: 'Rubik', sans-serif;
   font-weight: 400;
-  
+
   color: #1e2c34;
 
   margin: 0;
@@ -199,7 +199,7 @@ strong {
 
 
 
-/* This only works with JavaScript, 
+/* This only works with JavaScript,
         if it's not present, don't show loader */
 
 .no-js #loader {
@@ -220,11 +220,11 @@ strong {
     width: 100%;
     height: 100%;
     z-index: 9999999;
-    background: url(http://xerotheme.com/digital/html/img/loader_ico.gif) center no-repeat #fff;
+    background: url(http://myTheme.com/digital/html/img/loader_ico.gif) center no-repeat #fff;
 }
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 menue style
 
@@ -256,9 +256,9 @@ menue style
   font-weight: 500;
   text-transform: uppercase;
 }
-.navbar-light .navbar-nav .active>.nav-link, 
-.navbar-light .navbar-nav .nav-link.active, 
-.navbar-light .navbar-nav .nav-link.show, 
+.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .show>.nav-link{
   color: #ffffff;
   text-decoration: underline;
@@ -318,7 +318,7 @@ menue style
 }
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 close menue style
 
@@ -327,7 +327,7 @@ close menue style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start Banner style
 
@@ -382,7 +382,7 @@ Start Banner style
 }
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close Banner style
 
@@ -392,7 +392,7 @@ Close Banner style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start seo form style
 
@@ -440,7 +440,7 @@ Start seo form style
 }
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close seo form style
 
@@ -449,7 +449,7 @@ Close seo form style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start Important know style
 
@@ -503,7 +503,7 @@ Start Important know style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close Important know style
 
@@ -512,7 +512,7 @@ Close Important know style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start seo analyse report style
 
@@ -549,7 +549,7 @@ Start seo analyse report style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close seo analyse report style
 
@@ -558,7 +558,7 @@ Close seo analyse report style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start Services style
 
@@ -614,7 +614,7 @@ Start Services style
 }
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close Services style
 
@@ -623,7 +623,7 @@ Close Services style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start How we work style
 
@@ -689,7 +689,7 @@ Start How we work style
 }
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close How we work style
 
@@ -698,7 +698,7 @@ Close How we work style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start Meet the team style
 
@@ -783,7 +783,7 @@ Start Meet the team style
 }
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close Meet the team style
 
@@ -793,7 +793,7 @@ Close Meet the team style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start Testimonials style
 
@@ -845,7 +845,7 @@ Start Testimonials style
   top: 65%;
   left: -52%;
 }
-.testimonial-dig .owl-carousel .owl-nav button.owl-next, 
+.testimonial-dig .owl-carousel .owl-nav button.owl-next,
 .testimonial-dig .owl-carousel .owl-nav button.owl-prev{
   background-color: #f06234;
   color: #ffffff;
@@ -855,7 +855,7 @@ Start Testimonials style
 }
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close Testimonials style
 
@@ -864,7 +864,7 @@ Close Testimonials style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start case studies style
 
@@ -911,7 +911,7 @@ Start case studies style
 }
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close case studies style
 
@@ -920,7 +920,7 @@ Close case studies style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start Pricing table style
 
@@ -942,7 +942,7 @@ Start Pricing table style
   position:relative;
   display:inline-block;
   border-radius:0;
-  overflow:hidden;  
+  overflow:hidden;
 }
 
 .pricing-table-dig .tab-btns .tab-btn{
@@ -955,18 +955,18 @@ Start Pricing table style
   text-transform:capitalize;
   line-height:30px;
   padding:12px 32px;
-  cursor:pointer; 
+  cursor:pointer;
   margin-right: 10px;
   margin-top: 20px;
 }
 
 .pricing-table-dig .tab-btns .tab-btn:first-child{
-  border-radius:0;  
+  border-radius:0;
 }
 
 .pricing-table-dig .tab-btns .tab-btn:last-child{
   border-left:none;
-  border-radius:0;  
+  border-radius:0;
 }
 
 .pricing-table-dig .tab-btns .active-btn{
@@ -976,7 +976,7 @@ Start Pricing table style
 }
 
 .pricing-table-dig  .pr-content{
-  position:relative;  
+  position:relative;
 }
 
 .pricing-table-dig .price-column{
@@ -1062,7 +1062,7 @@ Start Pricing table style
   -ms-transform:scale(1) translateX(0);
   -o-transform:scale(1) translateX(0);
   -moz-transform:scale(1) translateX(0);
-  transform:scale(1) translateX(0); 
+  transform:scale(1) translateX(0);
   opacity: 1;
 }
 
@@ -1076,7 +1076,7 @@ Start Pricing table style
   -moz-box-shadow:0px 0px 20px 1px rgba(0,0,0,0.05);
   -ms-box-shadow:0px 0px 20px 1px rgba(0,0,0,0.05);
   -o-box-shadow:0px 0px 20px 1px rgba(0,0,0,0.05);
-  box-shadow:0px 0px 20px 1px rgba(0,0,0,0.05); 
+  box-shadow:0px 0px 20px 1px rgba(0,0,0,0.05);
 }
 
 
@@ -1103,7 +1103,7 @@ Start Pricing table style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close Pricing table style
 
@@ -1113,7 +1113,7 @@ Close Pricing table style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start recent blog style
 
@@ -1164,7 +1164,7 @@ Start recent blog style
 }
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close recent blog style
 
@@ -1173,7 +1173,7 @@ Close recent blog style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start Footer widget extra style
 
@@ -1246,7 +1246,7 @@ Start Footer widget extra style
 }
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close Footer widget extra style
 
@@ -1255,7 +1255,7 @@ Close Footer widget extra style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start Footer copyright style
 
@@ -1275,7 +1275,7 @@ Start Footer copyright style
 }
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close Footer copyright style
 
@@ -1284,7 +1284,7 @@ Close Footer copyright style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start Responsive style
 
@@ -1332,16 +1332,16 @@ Start Responsive style
   .inside-hero-text p{
     font-size: 16px;
   }
-  .title-seo h3, 
-  .important-text-in h3, 
-  .analyse-text-in h3, 
-  .title h3, 
-  .work-title h3, 
+  .title-seo h3,
+  .important-text-in h3,
+  .analyse-text-in h3,
+  .title h3,
+  .work-title h3,
   .price-title h3{
     font-size: 26px;
   }
   .testimonial-title h3{
-    font-size: 26px; 
+    font-size: 26px;
   }
 
   .important-text-in,
@@ -1417,16 +1417,16 @@ Start Responsive style
   .inside-hero-text p{
     font-size: 16px;
   }
-  .title-seo h3, 
-  .important-text-in h3, 
-  .analyse-text-in h3, 
-  .title h3, 
-  .work-title h3, 
+  .title-seo h3,
+  .important-text-in h3,
+  .analyse-text-in h3,
+  .title h3,
+  .work-title h3,
   .price-title h3{
     font-size: 26px;
   }
   .testimonial-title h3{
-    font-size: 26px; 
+    font-size: 26px;
   }
   .seo-form-in .btn{
     width: 30%;
@@ -1462,7 +1462,7 @@ Start Responsive style
 }
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close Responsive style
 
@@ -1471,7 +1471,7 @@ Close Responsive style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start Home two style
 
@@ -1501,18 +1501,18 @@ Start Home two style
   left:100px ;
   top: 120px;
   z-index: -1;
-  
+
   -webkit-animation-duration: 15s;
   -ms-animation-duration: 15s;
   -moz-animation-duration: 15s;
-  animation-duration: 15s;  
-  
+  animation-duration: 15s;
+
   -moz-animation-name: spinnerRotate;
   -webkit-animation-name: spinnerRotate;
   -ms-animation-name: spinnerRotate;
   animation-name: spinnerRotate;
-  
-  -moz-animation-iteration-count: infinite;  
+
+  -moz-animation-iteration-count: infinite;
   -ms-animation-iteration-count: infinite;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
@@ -1532,14 +1532,14 @@ Start Home two style
   -webkit-animation-duration: 15s;
   -ms-animation-duration: 15s;
   -moz-animation-duration: 15s;
-  animation-duration: 15s;  
-  
+  animation-duration: 15s;
+
   -moz-animation-name: spinnerRotate2;
   -webkit-animation-name: spinnerRotate2;
   -ms-animation-name: spinnerRotate2;
   animation-name: spinnerRotate2;
-  
-  -moz-animation-iteration-count: infinite;  
+
+  -moz-animation-iteration-count: infinite;
   -ms-animation-iteration-count: infinite;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
@@ -1558,14 +1558,14 @@ Start Home two style
    -webkit-animation-duration: 18s;
   -ms-animation-duration: 18s;
   -moz-animation-duration: 18s;
-  animation-duration: 18s;  
-  
+  animation-duration: 18s;
+
   -moz-animation-name: spinnerRotate3;
   -webkit-animation-name: spinnerRotate3;
   -ms-animation-name: spinnerRotate3;
   animation-name: spinnerRotate3;
-  
-  -moz-animation-iteration-count: infinite;  
+
+  -moz-animation-iteration-count: infinite;
   -ms-animation-iteration-count: infinite;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
@@ -2144,11 +2144,11 @@ filter: progid:DXImageTransform.Microsoft.Shadow(Strength=11, Direction=135, Col
   }
   .pricing-table-dig-2{
     padding-bottom: 70px;
-  } 
+  }
 }
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close Home two style
 
@@ -2157,7 +2157,7 @@ Close Home two style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start Home three style
 
@@ -2301,7 +2301,7 @@ Start Home three style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close Home three style
 
@@ -2310,7 +2310,7 @@ Close Home three style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start About page style
 
@@ -2405,7 +2405,7 @@ Start About page style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close About page style
 
@@ -2415,7 +2415,7 @@ Close About page style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start About team page style
 
@@ -2470,7 +2470,7 @@ Start About team page style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close About team page style
 
@@ -2479,7 +2479,7 @@ Close About team page style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start Services page style
 
@@ -2504,7 +2504,7 @@ Start Services page style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close Services page style
 
@@ -2514,7 +2514,7 @@ Close Services page style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start marketing page style
 
@@ -2565,7 +2565,7 @@ Start marketing page style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close marketing page style
 
@@ -2574,7 +2574,7 @@ Close marketing page style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start SEO page style
 
@@ -2611,7 +2611,7 @@ Start SEO page style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close SEO page style
 
@@ -2621,7 +2621,7 @@ Close SEO page style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start Portfolio page style
 
@@ -2809,7 +2809,7 @@ Start Portfolio page style
 }
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close Portfolio page style
 
@@ -2818,7 +2818,7 @@ Close Portfolio page style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start Contact page style
 
@@ -2976,7 +2976,7 @@ filter: progid:DXImageTransform.Microsoft.Shadow(Strength=14, Direction=135, Col
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close Contact page style
 
@@ -2986,7 +2986,7 @@ Close Contact page style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start Case studies page style
 
@@ -3028,7 +3028,7 @@ Start Case studies page style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close Case studies page style
 
@@ -3037,7 +3037,7 @@ Close Case studies page style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start Faqs page style
 
@@ -3106,7 +3106,7 @@ Start Faqs page style
   text-align: left;
   outline: 0;
   cursor: pointer;
-  
+
   font-weight: 600;
   font-size: 18px;
   color: #5a595c;
@@ -3120,7 +3120,7 @@ Start Faqs page style
   margin-top: 8px;
 }
 .faqs-page-single .collapse .card-body{
-  
+
   font-weight: 400;
   color: #5a595c;
   font-size: 14px;
@@ -3128,7 +3128,7 @@ Start Faqs page style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close Faqs page style
 
@@ -3138,7 +3138,7 @@ Close Faqs page style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start 404 page style
 
@@ -3186,7 +3186,7 @@ Start 404 page style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close 404 page style
 
@@ -3196,7 +3196,7 @@ Close 404 page style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start coming soon page style
 
@@ -3364,7 +3364,7 @@ Start coming soon page style
 
 
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
- 
+
   .comming-soon-page .page_inside_one h2{
     font-size: 48px;
    }
@@ -3379,7 +3379,7 @@ Start coming soon page style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close coming soon page style
 
@@ -3389,7 +3389,7 @@ Close coming soon page style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start Blog page style
 
@@ -3652,7 +3652,7 @@ Start Blog page style
   display: inline-block;
 }
 .tag-share ul.tags{
-  
+
   width: 100%;
 }
   .tag-share ul.tags li{
@@ -3660,12 +3660,12 @@ Start Blog page style
   color: #5a595c;
 }
   .tag-share ul.tags li a{
- 
+
   font-weight: 400;
   color: #5a595c;
 }
   .tag-share ul.social{
-  
+
   width: 100%;
   text-align: left;
 }
@@ -3689,14 +3689,14 @@ Start Blog page style
   padding-left: 15px;
 }
   .comment-box .media .media-body h3{
-  
+
   font-weight: 400;
   color: #5a595c;
   font-size: 16px;
 }
   .comment-box .media .media-body h5{
   font-size: 12px;
-  
+
   font-weight: 400;
   color: #5a595c;
 }
@@ -3732,7 +3732,7 @@ Start Blog page style
   outline: 0;
   margin-bottom: 20px;
   padding: 14px;
-  
+
   font-weight: 400;
   color: #bebebe;
   font-size: 12px;
@@ -3758,7 +3758,7 @@ Start Blog page style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close Blog page style
 
@@ -3768,7 +3768,7 @@ Close Blog page style
 
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Start Elements page style
 
@@ -4248,7 +4248,7 @@ Start Elements page style
 }
 .menu3 .side-menu .btn-close:hover,
 .menu3 .side-menu .btn-close:focus {
-   background: #e84455; 
+   background: #e84455;
 }
 .menu3 .side-menu.before-side .btn-close {
    display: none;
@@ -4359,7 +4359,7 @@ Start Elements page style
    -webkit-transition: all 0.8s ease 500ms;
    -o-transition: all 0.8s ease 500ms;
    transition: all 0.8s ease 500ms;
-   
+
    -webkit-transform: translateY(30px);
    -ms-transform: translateY(30px);
    -o-transform: translateY(30px);
@@ -4374,7 +4374,7 @@ Start Elements page style
 }
 .menu3 .side-nav .navbar-nav .nav-link {
   display: inline-table;
-  color: #384141; 
+  color: #384141;
   padding: 2px 0 3px 0 !important;
   font-size: 1.5rem;
   font-weight: 300;
@@ -4568,7 +4568,7 @@ Start Elements page style
   padding-bottom: 120px;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
 Close Elements page style
 
