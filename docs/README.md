@@ -1,1 +1,1 @@
-# myTheme
+# theTheme
